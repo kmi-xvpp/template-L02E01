@@ -1,4 +1,4 @@
-# L04E02: Delay decorator
+# L02E01: Delay decorator
 Vytvořte modul `delay.py` obsahující `@delay(seconds=X)` dekorátor, který při zavolání obalené funkce zpomalí její vykonání o `X` sekund. Výchozí doba zpomalení bez uvedení parametru `seconds` bude 1 sekunda.
 
 Soubor `delay.py` nesmi obsahovat žádný jiný kód než je kód dekorátoru. Případně testování provádějte v jiných souborech, které nebudete do repozitáře commitovat.
